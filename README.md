@@ -1,4 +1,7 @@
-# Marginal distributions and correation coefficient  
+# EXP : 03
+# Date : 
+
+# <p align="center"> Marginal distributions and correation coefficient</p>  
 
 # Aim : 
 
